@@ -1,2 +1,2 @@
-# TechnicalExam-JulieAnneFormalejo-
+# TechnicalExam-JulieAnneFormalejo
 Technical Exam
